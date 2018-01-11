@@ -29,10 +29,14 @@ a dedicated tool to shell out to in our initrc.
 
 We have 2 so far.
 
-**chad**
+#### chad
+
+![chad theme screenshot](assets/chad.png)
 
 
-**darkside**
+#### darkside
+
+![darkside theme screenshot](assets/darkside.png)
 
 
 A theme is simply a function that returns `Option<String>` built from your 
